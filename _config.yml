@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
+title:          Mohidul Islam
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/"
+baseurl:        ""
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Mohidul Islam
   url:          https://mohidul.xyz
   email:        mohidul.cs@gmail.com
 
@@ -30,8 +30,8 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+permalink:      /:title
+paginate:       10
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
